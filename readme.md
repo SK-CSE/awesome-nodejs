@@ -125,6 +125,7 @@
 ### Command-line apps
 
 - [np](https://github.com/sindresorhus/np) - Better `npm publish`.
+- [bhai](https://www.npmjs.com/package/bhai) - Create instant Reminder for any task ⏰.
 - [npm-name](https://github.com/sindresorhus/npm-name) - Check a package name's availability on npm.
 - [gh-home](https://github.com/sindresorhus/gh-home) - Open the GitHub page of the repo in the current directory.
 - [npm-home](https://github.com/sindresorhus/npm-home) - Open the npm page of a package.
@@ -189,6 +190,7 @@
 ### Functional programming
 
 - [lodash](https://github.com/lodash/lodash) - Utility library delivering consistency, customization, performance, & extras. A better and faster Underscore.js.
+- [utility-pro](https://github.com/SK-CSE/utility-pro) - light weight NPM package for some utility functions to make your coding easy.
 - [immutable](https://github.com/facebook/immutable-js) - Immutable data collections.
 - [Ramda](https://github.com/ramda/ramda) - Utility library with a focus on flexible functional composition enabled by automatic currying and reversed argument order. Avoids mutating data.
 - [Folktale](https://github.com/origamitower/folktale) - Suite of libraries for generic functional programming in JavaScript that allows you to write elegant, modular applications with fewer bugs, and more reuse.
